@@ -1,0 +1,15 @@
+/Users/aeternitas/Projects/StorePDP/StorePDP/bin/Debug/net6.0/StorePDP
+/Users/aeternitas/Projects/StorePDP/StorePDP/bin/Debug/net6.0/StorePDP.deps.json
+/Users/aeternitas/Projects/StorePDP/StorePDP/bin/Debug/net6.0/StorePDP.runtimeconfig.json
+/Users/aeternitas/Projects/StorePDP/StorePDP/bin/Debug/net6.0/StorePDP.dll
+/Users/aeternitas/Projects/StorePDP/StorePDP/bin/Debug/net6.0/StorePDP.pdb
+/Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/StorePDP.csproj.AssemblyReference.cache
+/Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/StorePDP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/StorePDP.AssemblyInfoInputs.cache
+/Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/StorePDP.AssemblyInfo.cs
+/Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/StorePDP.csproj.CoreCompileInputs.cache
+/Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/StorePDP.dll
+/Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/refint/StorePDP.dll
+/Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/StorePDP.pdb
+/Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/StorePDP.genruntimeconfig.cache
+/Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/ref/StorePDP.dll
