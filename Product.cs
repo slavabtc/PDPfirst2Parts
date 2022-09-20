@@ -1,5 +1,6 @@
 using System;
-
+using baseProg;
+namespace baseProg {
 public class Product
 {
     public string Name {get;set;}
@@ -22,4 +23,19 @@ public class Product
         Length = length;
         Type = type;
     }
+
+    public static void printProductInfo (Product product)
+        {
+            Console.WriteLine($"{ product.Name}  { product.Sku}  { product.Price}   { product.Type}  {product.Descr} {product.Weight} {product.Country} {product.Length} \n");
+        }
+
+    public static void theMinSku (List<Product> products) 
+        {
+            List<Product> sortedList = products.OrderBy(Product=>Product.Sku).ToList();
+            Console.WriteLine("The item with the min SKU is : \n");
+            Console.WriteLine(sortedList[0].Name +  " " +  sortedList[0].Sku);
+        }
+    public Product () {}
+}
+
 }

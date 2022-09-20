@@ -13,3 +13,5 @@
 /Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/StorePDP.pdb
 /Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/StorePDP.genruntimeconfig.cache
 /Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/ref/StorePDP.dll
+/Users/aeternitas/Projects/StorePDP/StorePDP/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/aeternitas/Projects/StorePDP/StorePDP/obj/Debug/net6.0/StorePDP.csproj.CopyComplete

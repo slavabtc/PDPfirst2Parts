@@ -1,0 +1,42 @@
+[{
+	"Name": "Лосось",
+	"Sku": "001",
+	"Price": "295.00 UAH",
+	"Type": "Слабосоленый",
+	"Descr": "Рыбы с названием Лосось не существует",
+	"Weight": "5kg",
+	"Country": "Норвегия",
+	"Length": null
+},
+{
+	"Name": "Форель",
+	"Sku": "002",
+	"Price": "250.00 UAH",
+	"Type": "Охлажденная",
+	"Descr": "Форель не переносит жару и при высокой температуре",
+	"Weight": "6kg",
+	"Country": "Швеция",
+	"Length": null
+},
+{
+	"Name": "Скумбрия",
+	"Sku": "007",
+	"Price": "133.00 UAH",
+	"Type": "Холодное копчение",
+	"Descr": "Темная спинка скумбрия сливается с цветом воды",
+	"Weight": null,
+	"Country": null,
+	"Length": null	
+},
+{
+	"Name": "Спиннинг Shimano Catana",
+	"Sku": "013",
+	"Price": "1900.00 UAH",
+	"Type": "Shimano",
+	"Descr": "Когда муж ушел на рыбалку без удочки",
+	"Weight": null,
+	"Country": null,
+	"Length": "2.4m"		
+}
+
+]

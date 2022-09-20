@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vmCM9e9FYp8um1uTK0zX8QjhLEf5Ip73Jju10roYai3WVchSHz0G2UFuPjb58AawXCJXqUUBY8HTXaUU+fefYQ==",
+  "dgSpecHash": "7D5Ansi1DSxFxLzm2Wq7U9qpcbOmlSEY7ymxEDFvgvA2NVXb7xm9h17pU9uFjOrh/Vua5ozh5mfqm8AsPWgZrA==",
   "success": true,
   "projectFilePath": "/Users/aeternitas/Projects/StorePDP/StorePDP/StorePDP.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/aeternitas/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
